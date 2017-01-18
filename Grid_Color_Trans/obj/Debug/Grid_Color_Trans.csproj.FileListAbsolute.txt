@@ -1,0 +1,16 @@
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\bin\Debug\Grid_Color_Trans.exe.config
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\bin\Debug\Grid_Color_Trans.exe
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\bin\Debug\Grid_Color_Trans.pdb
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\ColorRectangle.g.cs
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\MainWindow.g.cs
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\App.g.cs
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\Grid_Color_Trans_MarkupCompile.cache
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\Grid_Color_Trans_MarkupCompile.lref
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\ColorRectangle.baml
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\MainWindow.baml
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\Grid_Color_Trans.g.resources
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\Grid_Color_Trans.Properties.Resources.resources
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\Grid_Color_Trans.csproj.GenerateResource.Cache
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\Grid_Color_Trans.exe
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\Grid_Color_Trans.pdb
+G:\opensource\Grid_Color_Trans\Grid_Color_Trans\obj\Debug\GeneratedInternalTypeHelper.g.cs
